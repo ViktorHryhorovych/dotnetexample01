@@ -1,0 +1,17 @@
+C:\Users\Вiктор\source\repos\ConsoleApp6\UnitTestProject2\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Вiктор\source\repos\ConsoleApp6\UnitTestProject2\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Вiктор\source\repos\ConsoleApp6\UnitTestProject2\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Вiктор\source\repos\ConsoleApp6\UnitTestProject2\bin\Debug\netcoreapp2.2\UnitTestProject2.deps.json
+C:\Users\Вiктор\source\repos\ConsoleApp6\UnitTestProject2\bin\Debug\netcoreapp2.2\UnitTestProject2.runtimeconfig.json
+C:\Users\Вiктор\source\repos\ConsoleApp6\UnitTestProject2\bin\Debug\netcoreapp2.2\UnitTestProject2.runtimeconfig.dev.json
+C:\Users\Вiктор\source\repos\ConsoleApp6\UnitTestProject2\bin\Debug\netcoreapp2.2\UnitTestProject2.dll
+C:\Users\Вiктор\source\repos\ConsoleApp6\UnitTestProject2\bin\Debug\netcoreapp2.2\UnitTestProject2.pdb
+C:\Users\Вiктор\source\repos\ConsoleApp6\UnitTestProject2\bin\Debug\netcoreapp2.2\ConsoleApp6.dll
+C:\Users\Вiктор\source\repos\ConsoleApp6\UnitTestProject2\bin\Debug\netcoreapp2.2\ConsoleApp6.pdb
+C:\Users\Вiктор\source\repos\ConsoleApp6\UnitTestProject2\obj\Debug\netcoreapp2.2\UnitTestProject2.csprojAssemblyReference.cache
+C:\Users\Вiктор\source\repos\ConsoleApp6\UnitTestProject2\obj\Debug\netcoreapp2.2\UnitTestProject2.csproj.CoreCompileInputs.cache
+C:\Users\Вiктор\source\repos\ConsoleApp6\UnitTestProject2\obj\Debug\netcoreapp2.2\UnitTestProject2.AssemblyInfoInputs.cache
+C:\Users\Вiктор\source\repos\ConsoleApp6\UnitTestProject2\obj\Debug\netcoreapp2.2\UnitTestProject2.AssemblyInfo.cs
+C:\Users\Вiктор\source\repos\ConsoleApp6\UnitTestProject2\obj\Debug\netcoreapp2.2\UnitTestProject2.csproj.CopyComplete
+C:\Users\Вiктор\source\repos\ConsoleApp6\UnitTestProject2\obj\Debug\netcoreapp2.2\UnitTestProject2.dll
+C:\Users\Вiктор\source\repos\ConsoleApp6\UnitTestProject2\obj\Debug\netcoreapp2.2\UnitTestProject2.pdb
